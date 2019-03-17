@@ -1,0 +1,26 @@
+/* ==UserStyle==
+@name           privatebin dark addon - userCSS
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    reading mode for privatebins, dark addon
+@author         serjflint <serjflint@gmail.com> (https://github.com/serjflint)
+@license        CC-BY-4.0
+@preprocessor   default
+@homepageURL    https://github.com/serjflint/privatebin-reader_view
+@supportURL     https://github.com/serjflint/privatebin-reader_view/issues
+@updateURL      https://github.com/serjflint/privatebin-reader_view/blob/master/reader_view_dark_addon.user.css
+==/UserStyle== */
+@-moz-document domain("paste.imirhil.fr"),
+domain("privatebin.net"),
+domain("paste.fizi.ca"),
+domain("paste.tech-port.de"),
+domain("priv.atebin.com"),
+domain("privatebin.secured.fi") {
+	body {
+		background-color: rgb(17, 17, 17);
+		color: rgb(246, 246, 246);
+	}
+	body * {
+		color: rgb(246, 246, 246);
+	}
+}
