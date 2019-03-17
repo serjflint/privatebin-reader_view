@@ -4,8 +4,11 @@
 @version        1.0.0
 @description    reading mode for privatebins
 @author         serjflint <serjflint@gmail.com> (https://github.com/serjflint)
-@license		CC-BY-4.0
-@preprocessor	default
+@license        CC-BY-4.0
+@preprocessor   default
+@homepageURL    https://github.com/serjflint/privatebin-reader_view
+@supportURL     https://github.com/serjflint/privatebin-reader_view/issues
+@updateURL      https://github.com/serjflint/privatebin-reader_view/blob/master/reader_view.user.css
 ==/UserStyle== */
 @-moz-document domain("paste.imirhil.fr"),
 domain("privatebin.net"),
